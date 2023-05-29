@@ -28,7 +28,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "app/home/head.jsx"
+    "app/search/head.jsx"
   ],
   "exclude": ["node_modules"]
 }
